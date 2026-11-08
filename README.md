@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:8b0000&height=200&section=header&text=ObrouEva&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=Cybersecurity%20%26%20Cloud%20in%20the%20making&descAlignY=58&descSize=18" alt="banner" />
+  <img src="assets/banner.svg" alt="banner" width="100%" />
 </p>
 
 <p align="center">
