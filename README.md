@@ -1,42 +1,105 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:8b0000&height=200&section=header&text=ObrouEva&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=Cybersecurity%20%26%20Cloud%20in%20the%20making&descAlignY=58&descSize=18" alt="banner" />
+</p>
 
 <p align="center">
-  <b>Maths & Computer Science student · Université Lyon 1</b><br/>
-  Building my way towards <b>Cybersecurity & Cloud Architecture</b> — one hands-on project at a time.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E5534B&center=true&vCenter=true&width=600&lines=Maths+%26+Computer+Science+student+%40+Lyon+1;Building+a+homelab+from+scratch;Linux+%C2%B7+Networking+%C2%B7+Security+%C2%B7+Cloud;Verify%2C+then+trust." alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ObrouEva&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
 
-### 🔭 Currently building
-- **[homelab](https://github.com/ObrouEva/homelab)**: my self-hosted lab on a Dell OptiPlex running Proxmox VE. Linux, networking, security hardening, documented week by week.
-- **Python & C++** through university and side projects: scripts, automation, maths for crypto.
+## 🎯 About me
 
-### 🎯 Focus areas
-`Linux administration` · `Networking` · `Virtualisation` · `Security fundamentals` · `Cloud (next)`
+```python
+class ObrouEva:
+    role      = "Maths & Computer Science undergrad @ Université Lyon 1"
+    goal      = "Cybersecurity & Cloud Architect"
 
-### 🛠️ Tools I use
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    building  = [
+        "homelab: Proxmox · Linux · networking · hardening",
+        "Python tools for security & automation",
+    ]
 
-### 📚 Learning next
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+    learning  = [
+        "Linux administration & Bash",
+        "Networking fundamentals",
+        "Security hardening",
+        "Cloud & Infrastructure as Code (next)",
+    ]
 
-### 📊 Activity
+    principle = "Verify, then trust."
+```
+
+---
+
+## 🔭 Featured project
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3><a href="https://github.com/ObrouEva/homelab">🧪 homelab</a></h3>
+      A self-hosted lab on a Dell OptiPlex Micro running <b>Proxmox VE</b>, documented week by week:
+      what I built, the commands, what broke and how I fixed it.<br/><br/>
+      <b>Done:</b> bare-metal install · ISO integrity check · repo & kernel updates<br/>
+      <b>Next:</b> Debian VMs · SSH hardening · firewalls · segmentation · SIEM · AWS
+    </td>
+    <td width="40%" align="center">
+      <img src="https://skillicons.dev/icons?i=linux,debian,bash&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech arsenal
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🖥️ Systems & Infra</h4>
+      <img src="https://skillicons.dev/icons?i=linux,debian&theme=dark" />
+      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🧰 Tools & Workflow</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,md&theme=dark" />
+    </td>
+    <td align="center">
+      <h4>📚 Learning next</h4>
+      <img src="https://skillicons.dev/icons?i=docker,aws,terraform&theme=dark" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ObrouEva&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ObrouEva&theme=dark&hide_border=true&background=0d1117&ring=E5534B&fire=E5534B&currStreakLabel=E5534B" alt="streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObrouEva&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObrouEva&bg_color=0d1117&color=e6edf3&line=E5534B&point=ffffff&area=true&area_color=8b0000&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
-<p align="center"><i>"Verify, then trust." Learning in public, mistakes and fixes included.</i></p>
+<p align="center"><i>"Learning in public, mistakes and fixes included."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:161b22,100:0d1117&height=110&section=footer" alt="footer" />
+</p>
