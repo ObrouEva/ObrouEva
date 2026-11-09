@@ -1,14 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.svg" alt="banner" width="100%" />
+  <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=E5534B&center=true&vCenter=true&width=600&lines=Maths+%26+Computer+Science+student+%40+Lyon+1;Building+a+homelab+from+scratch;Linux+%C2%B7+Networking+%C2%B7+Security+%C2%B7+Cloud;Verify%2C+then+trust." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=39FF6A&center=true&vCenter=true&width=600&lines=Maths+%26+Computer+Science+student+%40+Lyon+1;Building+a+homelab+from+scratch;Linux+%C2%B7+Networking+%C2%B7+Security+%C2%B7+Cloud;Verify%2C+then+trust." alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ObrouEva&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ObrouEva&style=for-the-badge&color=39ff6a&labelColor=0d1117&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ class ObrouEva:
     </td>
     <td width="40%" align="center">
       <img src="https://skillicons.dev/icons?i=linux,debian,bash&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=39ff6a" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ class ObrouEva:
     <td align="center" width="50%">
       <h4>🖥️ Systems & Infra</h4>
       <img src="https://skillicons.dev/icons?i=linux,debian&theme=dark" />
-      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=39ff6a" />
     </td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ class ObrouEva:
     <td align="center">
       <h4>📚 Learning next</h4>
       <img src="https://skillicons.dev/icons?i=docker,aws,terraform&theme=dark" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a" />
     </td>
   </tr>
 </table>
@@ -89,11 +89,11 @@ class ObrouEva:
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ObrouEva&theme=dark&hide_border=true&background=0d1117&ring=E5534B&fire=E5534B&currStreakLabel=E5534B" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ObrouEva&theme=dark&hide_border=true&background=0d1117&stroke=39ff6a&currStreakNum=39ff6a&sideNums=39ff6a&sideLabels=8b949e&dates=8b949e&ring=39FF6A&fire=39FF6A&currStreakLabel=39FF6A" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObrouEva&bg_color=0d1117&color=e6edf3&line=E5534B&point=ffffff&area=true&area_color=8b0000&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObrouEva&bg_color=0d1117&color=39ff6a&line=39FF6A&point=39ff6a&title_color=39ff6a&area=true&area_color=0f5132&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -101,5 +101,5 @@ class ObrouEva:
 <p align="center"><i>"Learning in public, mistakes and fixes included."</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:161b22,100:0d1117&height=110&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff6a,40:0f5132,100:0d1117&height=110&section=footer" alt="footer" />
 </p>
