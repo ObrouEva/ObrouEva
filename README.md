@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About me
+## `> about_me`
 
 ```python
 class ObrouEva:
@@ -37,12 +37,12 @@ class ObrouEva:
 
 ---
 
-## 🔭 Featured project
+## `> featured_project`
 
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/ObrouEva/homelab">🧪 homelab</a></h3>
+      <h3><a href="https://github.com/ObrouEva/homelab"><code>homelab/</code></a></h3>
       A self-hosted lab on a Dell OptiPlex Micro running <b>Proxmox VE</b>, documented week by week:
       what I built, the commands, what broke and how I fixed it.<br/><br/>
       <b>Done:</b> bare-metal install · ISO integrity check · repo & kernel updates<br/>
@@ -57,27 +57,27 @@ class ObrouEva:
 
 ---
 
-## 🛠️ Tech arsenal
+## `> tech_arsenal`
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h4>💻 Languages</h4>
+      <h4><code>languages</code></h4>
       <img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
     </td>
     <td align="center" width="50%">
-      <h4>🖥️ Systems & Infra</h4>
+      <h4><code>systems_infra</code></h4>
       <img src="https://skillicons.dev/icons?i=linux,debian&theme=dark" />
       <img src="https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=39ff6a" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h4>🧰 Tools & Workflow</h4>
+      <h4><code>tools</code></h4>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,md&theme=dark" />
     </td>
     <td align="center">
-      <h4>📚 Learning next</h4>
+      <h4><code>learning_next</code></h4>
       <img src="https://skillicons.dev/icons?i=docker,aws,terraform&theme=dark" />
       <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a" />
     </td>
@@ -86,14 +86,10 @@ class ObrouEva:
 
 ---
 
-## 📊 GitHub analytics
+## `> activity`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ObrouEva&theme=dark&hide_border=true&background=0d1117&stroke=39ff6a&currStreakNum=39ff6a&sideNums=39ff6a&sideLabels=8b949e&dates=8b949e&ring=39FF6A&fire=39FF6A&currStreakLabel=39FF6A" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObrouEva&bg_color=0d1117&color=39ff6a&line=39FF6A&point=39ff6a&title_color=39ff6a&area=true&area_color=0f5132&hide_border=true" alt="activity graph" />
 </p>
 
 ---
